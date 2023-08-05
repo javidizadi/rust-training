@@ -1,0 +1,3 @@
+[submodule "fibonacci-calculator"]
+	path = fibonacci-calculator
+	url = https://github.com/javidizadi/fibonacci-calculator
